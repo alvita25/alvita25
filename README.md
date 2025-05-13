@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvita25&show_icons=true&theme=radical" alt="alvita's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvita25&theme=radical" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvita25&layout=compact&theme=radical" />
 </p>
 
