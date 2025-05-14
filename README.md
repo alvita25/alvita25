@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="www.linkedin.com/in/alvita-dsilva-ab25b2258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:alvitamd25@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="email" height="30" width="30" /></a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvitamd25@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvita-dsilva-ab25b2258)
+
