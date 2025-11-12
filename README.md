@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Alvita</h1>
-<h3 align="center">3rd year CSE student</h3>
+<h3 align="center">4rd year CSE student</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/alvita25)
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvita25&show_icons=true&theme=radical" alt="alvita's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvita25&show_icons=true&theme=radical" alt="alvita's github stats" height="165" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvita25&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvita25&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 ### 🌐 Connect With Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvitamd25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvita-dsilva-ab25b2258)
+
+<p align="center">✨ “Keep learning, keep building, and stay curious!” ✨</p>
+
